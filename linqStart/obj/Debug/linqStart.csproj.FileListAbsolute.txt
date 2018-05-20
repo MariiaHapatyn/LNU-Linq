@@ -1,0 +1,7 @@
+d:\visual studio Projects\linqStart\linqStart\bin\Debug\linqStart.exe.config
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\bin\Debug\linqStart.exe.config
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\bin\Debug\linqStart.exe
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\bin\Debug\linqStart.pdb
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\obj\Debug\linqStart.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\obj\Debug\linqStart.exe
+D:\Visual Studio Projects\Visual C#\linqStart\linqStart\obj\Debug\linqStart.pdb
